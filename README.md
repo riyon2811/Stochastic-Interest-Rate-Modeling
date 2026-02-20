@@ -41,7 +41,7 @@ Key Concepts:
 * Term structure modelling
 
 
-2. Monte Carlo Simulation of Short Rate Paths (Part B)
+2.Monte Carlo Simulation of Short Rate Paths (Part B)
 
 Notebook: Project Assignment Que 1 (b) python code.ipynb
 
