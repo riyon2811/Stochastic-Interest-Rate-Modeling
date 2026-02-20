@@ -20,7 +20,7 @@ The project covers:
 
  
 
-1. Vasicek Model — Zero-Coupon Bond Pricing (Part A)
+1.Vasicek Model — Zero-Coupon Bond Pricing (Part A)
 
 Notebook: Project Assignment Que 1 (a) part python code.ipynb
 
@@ -63,7 +63,7 @@ Techniques Used:
 
  -Convergence analysis
 
-3. Swap Rate Computation (Part C)
+3.Swap Rate Computation (Part C)
 
 Notebook: Project Assignment Que 1 (c) python code.ipynb
 
@@ -81,7 +81,7 @@ A swap rate is the fixed rate that equates the present value of floating vs fixe
 using discount factors derived from model-based ZCB prices.
 
 
-4. Option Pricing on a Bond (Part D)
+4.Option Pricing on a Bond (Part D)
 
 Notebook: Project Assignment Que 1 (d) python code.ipynb
 
