@@ -1,6 +1,9 @@
-Stochastic Interest Rate Modelling
+Stochastic Interest Rate Modelling.
+
 Author: Riyon Sunil Tuscano
+
 Project Type: Quantitative Finance / Financial Engineering
+
 Models Used: Vasicek Model, Monte Carlo Simulation, Term Structure Modelling, Derivatives Pricing
 
 Overview:-
