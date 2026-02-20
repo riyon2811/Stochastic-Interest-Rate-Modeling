@@ -18,17 +18,19 @@ The project covers:
 
  4.Pricing an option on a bond
 
+ 
+
 1. Vasicek Model — Zero-Coupon Bond Pricing (Part A)
 
 Notebook: Project Assignment Que 1 (a) part python code.ipynb
 
 This section computes:
 
-The B(t, T) and A(t, T) functions of the Vasicek model
+ .The B(t, T) and A(t, T) functions of the Vasicek model
 
-The analytical price of a Zero-Coupon Bond for a 5-year maturity
+ .The analytical price of a Zero-Coupon Bond for a 5-year maturity
 
-Sensitivity to model parameters:- a,b,σ,r
+ .Sensitivity to model parameters:- a,b,σ,r
 
 Key Concepts:
 
@@ -45,13 +47,13 @@ Notebook: Project Assignment Que 1 (b) python code.ipynb
 
 This notebook:
 
-Simulates daily short-rate paths using the Vasicek stochastic differential equation
+ .Simulates daily short-rate paths using the Vasicek stochastic differential equation
 
-Uses Euler discretization
+ .Uses Euler discretization
 
-Computes the Monte Carlo estimate of a ZCB price
+ .Computes the Monte Carlo estimate of a ZCB price
 
-Compares simulation-based estimate vs analytical price
+ .Compares simulation-based estimate vs analytical price
 
 Techniques Used:
 
@@ -67,13 +69,14 @@ Notebook: Project Assignment Que 1 (c) python code.ipynb
 
 This section:
 
-Computes ZCB prices for maturities 1–5
+ .Computes ZCB prices for maturities 1–5
 
-Uses them to compute the fixed rate of a plain vanilla interest rate swap
+ .Uses them to compute the fixed rate of a plain vanilla interest rate swap
 
-Presents the swap par rate in percentage terms
+ .Presents the swap par rate in percentage terms
 
 Core Idea:-
+
 A swap rate is the fixed rate that equates the present value of floating vs fixed payments
 using discount factors derived from model-based ZCB prices.
 
@@ -84,20 +87,20 @@ Notebook: Project Assignment Que 1 (d) python code.ipynb
 
 This notebook prices a European call option on a 4-year Zero Coupon Bond:
 
-Computes forward bond price
+ .Computes forward bond price
 
-Computes option volatility under the Vasicek model
+ .Computes option volatility under the Vasicek model
 
-Applies the Black formula for bond options
+ .Applies the Black formula for bond options
 
-Returns the theoretical fair value of the option
+ .Returns the theoretical fair value of the option
 
 Skills Demonstrated:
 
-Term structure derivative pricing
+ .Term structure derivative pricing
 
-Analytic volatility expression
+ .Analytic volatility expression
 
-Lognormal forward-price dynamics
+ .Lognormal forward-price dynamics
 
-Discounted risk-neutral expectation
+ .Discounted risk-neutral expectation
