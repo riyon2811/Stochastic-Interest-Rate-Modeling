@@ -1,4 +1,4 @@
-Stochastic Interest Rate Modelling.
+#Stochastic Interest Rate Modelling.
 
 Author: Riyon Sunil Tuscano
 
@@ -20,7 +20,7 @@ The project covers:
 
 
  
-📘 1. Vasicek Model — Zero-Coupon Bond Pricing (Part A)
+#📘 1. Vasicek Model — Zero-Coupon Bond Pricing (Part A)
 
 Notebook: Project Assignment Que 1 (a) part python code.ipynb
 
